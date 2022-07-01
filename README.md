@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ghouzali
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning PHP Symphony
+- 🌱 I’m currently learning PHP Symphony and Pyhthon Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me madara.ghogho@gmail.com or abderrahmani.ghouzali@gmail.com
 
